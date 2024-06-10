@@ -4,7 +4,7 @@ public class Conditional {
 
     public static void main(String[] args) {
 
-        int nota = 100;
+        int    nota = 100;
         String graducao;
 
         if (nota >= 80) {
