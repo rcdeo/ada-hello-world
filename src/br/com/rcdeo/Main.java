@@ -18,5 +18,6 @@ public class Main {
         System.out.println(multiplicacao);
         System.out.println(divisao);
         System.out.println(resto);
+
     }
 }
